@@ -1,4 +1,4 @@
-const APP_ID = "dc22c036844c4b648ac61e4c079afff8";
+const APP_ID = "ee32be9773944725acb0dbe9ac696cf8";
 const CHANNEL = "session99";
 const UID = Math.floor(Math.random() * 100000);
 
